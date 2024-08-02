@@ -1,4 +1,4 @@
- **Amanuel Girma**👋
+ ## Amanuel Girma👋
 
 Welcome to my GitHub profile! I’m Amanuel Girma, a Senior Software Architect and Full Stack Engineer with over 10 years of experience across a diverse range of technologies and programming languages. My expertise spans both front-end and back-end development, as well as advanced AI and ML solutions.
 
@@ -9,12 +9,13 @@ I have a comprehensive background in:
 ## Back-End Development: Extensive experience with Node.js, Python, and Java (Spring Framework), along with strong skills in C, C++, and Go.
 ## AI & ML: Skilled in implementing and optimizing machine learning algorithms and AI solutions.
 
-## Key Skills
-## Front-End: React.js, Angular, Vue.js
-## Back-End: Node.js, Python (Flask, Django), Java (Spring), C, C++, Go
-## Databases: MongoDB, MySQL, PostgreSQL, Redis
-## DevOps: Docker, Kubernetes, CI/CD, Jenkins
-## Cloud Platforms: AWS, Azure, Google Cloud Platform
+## Key Skills 👋
+
+# Front-End: React.js, Angular, Vue.js
+# Back-End: Node.js, Python (Flask, Django), Java (Spring), C, C++, Go
+# Databases: MongoDB, MySQL, PostgreSQL, Redis
+# DevOps: Docker, Kubernetes, CI/CD, Jenkins
+# Cloud Platforms: AWS, Azure, Google Cloud Platform
 
 👀 ## I’m Interested In
 

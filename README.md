@@ -7,8 +7,7 @@ I have a comprehensive background in:
 
 ## Full Stack Development: Proficient in MERN (MongoDB, Express.js, React, Node.js) and LAMP (Linux, Apache, MySQL, PHP) stacks.
 ## Back-End Development: Extensive experience with Node.js, Python, and Java (Spring Framework), along with strong skills in C, C++, and Go.
-
-AI & ML: Skilled in implementing and optimizing machine learning algorithms and AI solutions.
+## AI & ML: Skilled in implementing and optimizing machine learning algorithms and AI solutions.
 
 ## Key Skills
 ## Front-End: React.js, Angular, Vue.js

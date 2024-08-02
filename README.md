@@ -12,7 +12,7 @@ AI & ML: Skilled in implementing and optimizing machine learning algorithms and 
 
 ## Key Skills
 ## Front-End: React.js, Angular, Vue.js
-### Back-End: Node.js, Python (Flask, Django), Java (Spring), C, C++, Go
+## Back-End: Node.js, Python (Flask, Django), Java (Spring), C, C++, Go
 ## Databases: MongoDB, MySQL, PostgreSQL, Redis
 ## DevOps: Docker, Kubernetes, CI/CD, Jenkins
 ## Cloud Platforms: AWS, Azure, Google Cloud Platform

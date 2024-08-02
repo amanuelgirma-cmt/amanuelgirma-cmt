@@ -33,7 +33,7 @@ AI/ML Research: Working with teams focused on research and practical application
 📫 How to Reach Me
 LinkedIn: https://www.linkedin.com/in/amanuel-girma-592979257/
 Email: amaneg2000@gmail.com
-Website/Portfolio: amanuelgirma.com 
+Website/Portfolio: www.amanuelgirma.com 
 Feel free to reach out if you’re interested in collaborating, discussing technology, or just connecting!
 
 😄 Pronouns

@@ -1,4 +1,4 @@
- ## Amanuel Girma 👋
+ **Amanuel Girma**👋
 
 Welcome to my GitHub profile! I’m Amanuel Girma, a Senior Software Architect and Full Stack Engineer with over 10 years of experience across a diverse range of technologies and programming languages. My expertise spans both front-end and back-end development, as well as advanced AI and ML solutions.
 
